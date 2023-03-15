@@ -1,10 +1,11 @@
 
 import './App.css';
+import DemoReactRedux from './demo/my-react-redux';
 
 function App() {
   return (
     <div className="App">
-      Test component is here
+      <DemoReactRedux />
     </div>
   );
 }
